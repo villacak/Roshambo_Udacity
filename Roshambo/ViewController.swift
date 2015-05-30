@@ -6,7 +6,6 @@
 //  Copyright (c) 2015 Klaus Villaca. All rights reserved.
 //
 
-// Udacity exercise
 import UIKit
 
 class ViewController: UIViewController {
