@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../ResultViewController.swift">
+   </FileRef>
+   <FileRef
       location = "self:Roshambo.xcodeproj">
    </FileRef>
 </Workspace>
