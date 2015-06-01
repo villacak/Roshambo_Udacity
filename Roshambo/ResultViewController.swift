@@ -10,14 +10,17 @@ import UIKit
 
 class ResultViewController: UIViewController {
     
-    
-    
+    /*
+     * Outlets
+     */
     @IBOutlet weak var imageView: UIImageView!
     @IBOutlet weak var winnerLabel: UILabel!
     
+    // Vars to hold values from user and bot choices
     var userPlay: Int?
     var botPlay: Int?
     
+    // Winner if any
     let userWon: String = "User"
     let botWon: String = "iPhone"
     let tied : String = "Tie"
